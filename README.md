@@ -1,8 +1,5 @@
-# Superstore_Excel
+# Superstore_Excel_Dashboard
 
-
-
-Superstore Dashboard
 
 This repository contains an Excel dashboard that analyzes the Superstore dataset. The dashboard includes several visualizations and interactive features that allow users to explore the data and gain insights into sales, profits, and customer behavior.
 
